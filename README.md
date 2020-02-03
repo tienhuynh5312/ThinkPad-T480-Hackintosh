@@ -23,4 +23,5 @@ USB C| *needs testing* | Working, not sure
 - [ ] Upgrade wifi card. DW1560 is safe choice but expensive. The config.plist is modified for cheaper solution DW1820A. See [DW1820A finding](https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojavecatalina/)
 
 ## Installation
-Please refer other guides for how to make a USB installation and create EFI (Clover)
+- Please refer other guides for how to make a USB installation and create EFI (Clover)
+- Please use mac serial generator or clover configurator to generate serial number and UUID.
