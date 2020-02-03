@@ -6,6 +6,7 @@ Part | Spec|Status
 -----|-----|------
 CPU|Intel i5-8250u|Working
 RAM| Dual Channel 2x8GB|Working
+SSD| Intel 512GB NVME|Working
 Graphics| Intel UHD 620|Working
 Wifi| Intel Wifi card | Not Working
 Microphone| *not sure the model number* | Working
