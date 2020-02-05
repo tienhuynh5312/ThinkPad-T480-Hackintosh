@@ -30,5 +30,6 @@ USB C| *needs testing* | Working, not sure
 
 ### Audio jack
 If you have audio glitchy after plug your headphone jack, use this.
+1. Go to Fixes\ folder.
 1. Run read and write repair app.
-2. Go into Fixes\alc_fix run instal.sh and reboot.
+2. Go into alc_fix folder, run instal.sh and reboot.
