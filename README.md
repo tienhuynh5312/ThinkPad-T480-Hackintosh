@@ -25,3 +25,10 @@ USB C| *needs testing* | Working, not sure
 ## Installation
 - Please refer other guides for how to make a USB installation and create EFI (Clover)
 - Please use mac serial generator or clover configurator to generate serial number and UUID.
+
+## Post-installation
+
+### Audio jack
+If you have audio glitchy after plug your headphone jack, use this.
+1. Run read and write repair app.
+2. Go into Fixes\alc_fix run instal.sh and reboot.
