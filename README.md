@@ -13,7 +13,7 @@ SSD| Intel 512GB NVME|Working
 Graphics| Intel UHD 620|Working
 Wifi| Intel Wifi card | Not Working
 Microphone| *not sure the model number*| Working
-Speaker| *not sure the model*|Working
+Speaker| ALC257, layoutid 11 |Working
 Touchpad|Synaptics PS2|Working, custom gestures
 Trackpoint|The red nipple button|Disabled
 USB2.0&3.0|You know what they are :) | Working
@@ -30,6 +30,6 @@ USB C| *needs testing* | Working, not sure
 
 ### Audio jack
 If you have audio glitchy after plug your headphone jack, use this.
-1. Go to Fixes\ folder.
-1. Run read and write repair app.
-2. Go into alc_fix folder, run instal.sh and reboot.
+1. Go to `Fixes\` folder.
+1. Run `read and write repair app`.
+2. Go into `alc_fix` folder, run `install.sh`and reboot.
