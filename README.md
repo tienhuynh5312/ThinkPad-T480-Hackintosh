@@ -11,7 +11,7 @@ CPU|Intel i5-8250u|Working
 RAM| Dual Channel 2x8GB|Working
 SSD| Intel 512GB NVME|Working
 Graphics| Intel UHD 620|Working
-Wifi| Intel Wifi card | Not Working
+Wifi + BT| DW1820A - CN-096JNT| Working
 Microphone| *not sure the model number*| Working
 Speaker| ALC257, layoutid 11 |Working
 Touchpad|Synaptics PS2|Working, custom gestures
@@ -20,7 +20,7 @@ USB2.0&3.0|You know what they are :) | Working
 USB C| *needs testing* | Working, not sure
 
 ## Todo
-- [ ] Upgrade wifi card to DW1820A. I am ordering the part right now. DW1560 is safe choice but expensive. The config.plist is modified for cheaper solution DW1820A. See [DW1820A finding](https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojavecatalina/)
+- [x] Confirmed working WIFI+BT. See [DW1820A finding](https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojavecatalina/)
 
 ## Installation
 - Please refer other guides for how to make a USB installation and create EFI (Clover)
