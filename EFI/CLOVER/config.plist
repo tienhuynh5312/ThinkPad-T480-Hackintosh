@@ -717,7 +717,7 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>C02707609GUHWVP8C</string>
+		<string></string>
 		<key>ROM</key>
 		<data>PaqK9oSi</data>
 	</dict>
@@ -762,16 +762,16 @@
 		<key>ProductName</key>
 		<string>MacBookPro14,1</string>
 		<key>SerialNumber</key>
-		<string>C02Z2SYUHV29</string>
+		<string></string>
 		<key>SmUUID</key>
-		<string>2EA379EF-ADD7-428B-BB99-738BBD125C0B</string>
+		<string></string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>5EAB1FDD-7E8C-44B5-BA11-A58F67F2CD54</string>
+		<string></string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
