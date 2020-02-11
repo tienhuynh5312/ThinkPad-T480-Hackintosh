@@ -21,7 +21,8 @@ USB C| *needs testing* | Working, not sure
 
 ## Todo
 - [x] Confirmed working WIFI+BT. See [DW1820A finding](https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojavecatalina/)
-
+## Issues
+- [ ] Power button blinking after wake from sleep.
 ## Installation
 - Please refer other guides for how to make a USB installation and create EFI (Clover)
 - Please use mac serial generator or clover configurator to generate serial number and UUID.
