@@ -637,7 +637,7 @@
 					<key>DragFingerIDToUseForData</key>
 					<integer>1</integer>
 					<key>DragFingersNum</key>
-					<integer>7</integer>
+					<integer>3</integer>
 					<key>DragLock</key>
 					<false/>
 					<key>Enable</key>
@@ -811,7 +811,7 @@
 				<key>Pointing</key>
 				<dict>
 					<key>AccelerationPrefValue</key>
-					<integer>4</integer>
+					<integer>0</integer>
 					<key>Clickpad2FingersMove</key>
 					<true/>
 					<key>DisableTrackPointButton</key>
@@ -869,9 +869,9 @@
 						<key>FocalTech</key>
 						<integer>0</integer>
 						<key>Synaptics</key>
-						<integer>25</integer>
+						<integer>0</integer>
 						<key>SynapticsClickPad</key>
-						<integer>25</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SlowMoveNoiseMaxDelta</key>
 					<dict>
@@ -886,9 +886,9 @@
 						<key>FocalTech</key>
 						<integer>3</integer>
 						<key>Synaptics</key>
-						<integer>5</integer>
+						<integer>10</integer>
 						<key>SynapticsClickPad</key>
-						<integer>3</integer>
+						<integer>10</integer>
 					</dict>
 					<key>TouchpadEdges</key>
 					<dict>
@@ -921,7 +921,7 @@
 							<key>Synaptics</key>
 							<integer>20</integer>
 							<key>SynapticsClickPad</key>
-							<integer>15</integer>
+							<integer>20</integer>
 						</dict>
 						<key>2FHorizontalScroll</key>
 						<true/>
@@ -934,7 +934,7 @@
 						<key>Continuous2FingScroll</key>
 						<false/>
 						<key>Inertial2FingScroll</key>
-						<true/>
+						<false/>
 						<key>ScrollSmoothSamples</key>
 						<integer>4</integer>
 						<key>Sling2FingScroll</key>
@@ -1018,11 +1018,11 @@
 					<key>ScrollLevelFactor</key>
 					<integer>2</integer>
 					<key>ScrollLevelGranularity</key>
-					<integer>40</integer>
+					<integer>70</integer>
 					<key>ScrollMaxIdleDetectTimeout</key>
 					<integer>500</integer>
 					<key>ScrollMaxIdleStateDelta</key>
-					<integer>10</integer>
+					<integer>20</integer>
 					<key>ScrollResolution</key>
 					<dict>
 						<key>ELANv2</key>
@@ -1050,17 +1050,17 @@
 				<key>Swiping</key>
 				<dict>
 					<key>3FingerSwipeDownAction</key>
-					<integer>9</integer>
+					<integer>0</integer>
 					<key>3FingerSwipeLeftAction</key>
 					<integer>11</integer>
 					<key>3FingerSwipeRightAction</key>
 					<integer>12</integer>
 					<key>3FingerSwipeUpAction</key>
-					<integer>8</integer>
+					<integer>0</integer>
 					<key>3FingerSwipes</key>
 					<true/>
 					<key>4FingerSwipeDownAction</key>
-					<integer>4</integer>
+					<integer>8</integer>
 					<key>4FingerSwipeLeftAction</key>
 					<integer>6</integer>
 					<key>4FingerSwipeRightAction</key>
@@ -1070,7 +1070,7 @@
 					<key>4FingerSwipes</key>
 					<true/>
 					<key>EdgeSwipeBottom</key>
-					<integer>16</integer>
+					<integer>0</integer>
 					<key>EdgeSwipeDeltaX</key>
 					<integer>30</integer>
 					<key>EdgeSwipeDeltaY</key>
@@ -1136,7 +1136,7 @@
 					<key>CornerTapAreaLength</key>
 					<integer>0</integer>
 					<key>CornerTapStartABS</key>
-					<true/>
+					<false/>
 					<key>DisableBottomCornersTap</key>
 					<false/>
 					<key>Enable</key>
@@ -1144,11 +1144,11 @@
 					<key>MulFingDoubleTaps</key>
 					<false/>
 					<key>MulFingTapMaxDelta</key>
-					<integer>55</integer>
+					<integer>100</integer>
 					<key>MulFingTapTimeOut</key>
-					<integer>200</integer>
+					<integer>180</integer>
 					<key>TapMaxDelta</key>
-					<integer>200</integer>
+					<integer>100</integer>
 					<key>TrackpadTappingCorners</key>
 					<false/>
 				</dict>
