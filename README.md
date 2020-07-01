@@ -13,7 +13,7 @@ SSD| Intel 512GB NVME|Working
 Graphics| Intel UHD 620|Working
 Wifi + BT| Fenvi BCM94360NG| Working
 Microphone| *not sure the model number*| Working
-Speaker| ALC257, layoutid 11 |Working
+Speaker| ALC257 AppleALC 1.5.0, layoutid 86 |Working
 Touchpad|Synaptics PS2|Working, custom gestures
 Trackpoint|The red nipple button|Disabled
 USB2.0&3.0|You know what they are :) | Working
